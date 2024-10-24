@@ -367,6 +367,7 @@ We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many
 Hint: Use a for loop to iterate all possible solutions.
 
 ## Solutions
+lutherannn - https://github.com/lutherannn/beginner-projects-solutions
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
