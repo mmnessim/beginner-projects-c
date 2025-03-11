@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <raylib.h>
+
+#define RAYGUI_IMPLEMENTATION
+#include "raygui.h"
 
 void randomPhrase();
 char phrases[20][100];
